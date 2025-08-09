@@ -45,7 +45,7 @@ InlineKeyboardButton("DPZ CHANNEL ", url="https://t.me/Veron_pfp"),
     reply_markup = InlineKeyboardMarkup(buttons)
     
     await msg.reply_photo(
-        photo="https://files.catbox.moe/n2f6fh.jpg",
+        photo="https://files.catbox.moe/l1y7ab.jpg",
         caption=start_txt,
         reply_markup=reply_markup
     )
